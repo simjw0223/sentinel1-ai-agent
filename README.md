@@ -94,19 +94,6 @@ Manually input:
 
 ---
 
-## Project Structure
-
-```
-sentinel1-ai-agent/
-├── app.py              # Main application
-├── requirements.txt    # Python dependencies
-├── .env.example        # Environment variables template
-├── .gitignore         # Git ignore rules
-└── README.md          # Project documentation
-```
-
----
-
 ## Configuration
 
 Default settings in the app:
